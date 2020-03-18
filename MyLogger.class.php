@@ -1,5 +1,6 @@
 <?php
-class MyLogger {
+class MyLogger 
+{
     public function log($message) {
         print($message);
     }
